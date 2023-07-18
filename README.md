@@ -1,0 +1,1 @@
+Project status [![Build status](https://ci.appveyor.com/api/projects/status/yosq5unbkrlfh4ag?svg=true)](https://ci.appveyor.com/project/Oksana-Petrova/hw-selenide)
